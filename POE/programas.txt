@@ -4,3 +4,6 @@ https://github.com/SnosMe/awakened-poe-trade
 
 Macro:
 https://www.autohotkey.com/
+
+Filtro:
+https://filterblade.xyz/
