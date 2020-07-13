@@ -1,0 +1,3 @@
+TRADE:
+https://github.com/lemasato/POE-Trades-Companion
+https://github.com/SnosMe/awakened-poe-trade
